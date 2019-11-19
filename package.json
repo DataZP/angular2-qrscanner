@@ -1,6 +1,6 @@
 {
-  "name": "angular2-qrscanner",
-  "version": "1.0.7",
+  "name": "ang-qrscanner",
+  "version": "1.0.9",
   "scripts": {
     "start": "ng serve --aot --host 0.0.0.0",
     "build": "ng-packagr -p ng-package.json",
@@ -13,16 +13,12 @@
   "main": "./src/index.ts",
   "repository": {
     "type": "git",
-    "url": "cd dishttps://github.com/goergch/angular2-qrscanner"
+    "url": "https://github.com/DataZP/angular2-qrscanner"
   },
   "author": {
-    "name": "Christian Görg",
-    "email": "goergc@gmx.de"
+    "name": "Nicolas",
+    "email": "cristiannicolaszp@gmail.com"
   },
-  "contributors": [
-    "Mosh Mage <moshmage@gmail.com> (http://moshmage.gitlab.io)",
-    "Christian Görg <goergc@gmx.de> (http://github.com/goergch)"
-  ],
   "keywords": [
     "angular",
     "angular2",
@@ -30,9 +26,6 @@
     "Scanner"
   ],
   "license": "GPL-3.0-or-later",
-  "bugs": {
-    "url": "https://github.com/goergch/angular2-qrscanner/issues"
-  },
   "dependencies": {},
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.8.0",
